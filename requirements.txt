@@ -1,3 +1,10 @@
 transformers
 torch
+fastapi
+uvicorn[standard]
 streamlit
+requests
+psutil
+streamlit
+requests
+psutil
